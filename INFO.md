@@ -1,2 +1,2 @@
-Hi serj_2
-Hi lena
+Hi andrey
+Hi john
